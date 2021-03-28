@@ -1,6 +1,7 @@
 ## Welcome to Steven's Page
 
 You can use the [editor on GitHub](https://github.com/stevenantya/stevenantya.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+![Screenshot 1 -01](https://user-images.githubusercontent.com/81511355/112749149-07770e80-8ff3-11eb-8910-a6d437568804.png)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
