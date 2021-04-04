@@ -1,38 +1,17 @@
 ## Welcome to Steven's Page
 
-You can use the [editor on GitHub](https://github.com/stevenantya/stevenantya.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-![Screenshot 1 -01](https://user-images.githubusercontent.com/81511355/112749149-07770e80-8ff3-11eb-8910-a6d437568804.png)
+Hello there fellow technology enthusiasts! My name is Steven Antya Orvala Waskito, a highschooler from Indonesia. I've been digging the computer science realm since 2017. The latest project I have been working on is about data science analysis. Please, take a look!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Latest Project ( ANALYSIS OF NBA PLAYER'S TWITTER FAME )
 
-### Markdown
+In this project, I used jupyter notebook and pandas library as my tools!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![image](https://user-images.githubusercontent.com/81511355/113501847-cfc01780-955a-11eb-88f1-c6417514be9c.png)
+![image](https://user-images.githubusercontent.com/81511355/113501866-f1210380-955a-11eb-9e5c-62ca49b13d53.png)
+![image](https://user-images.githubusercontent.com/81511355/113501868-f9793e80-955a-11eb-84a7-f7054c3926db.png)
+![image](https://user-images.githubusercontent.com/81511355/113501872-0007b600-955b-11eb-81d1-2c0093bea2e7.png)
 
-```markdown
-Syntax highlighted code block
+From my analysis of the 2016-2017 NBA season players, I am confident to say that
+Neither the salary or the number of wins significantly increases NBA player's twitter fame.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/stevenantya/stevenantya.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+I will be posting my other projects here, so stay tune for more!
